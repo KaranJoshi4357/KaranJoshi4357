@@ -2,12 +2,23 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Karan Joshi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan Joshi</h1>
+
 <h3 align="center">Full Stack Web Developer from India</h3>
+<p align="center">Collaborative, team player who can work with teams and be productive. Interested in obtaining a Software Developer position.Always like to learn new skills and technologies.</p>
+
 
 # 💫 About Me:
-🌱 I’m currently learning MERN STACK<br><br>👨‍💻 All of my projects are available at **[My Portfolio](https://karanjoshi-portfolio.netlify.app/)**<br><br>💬 Ask me about REACT,DSA<br><br>📫 How to reach me **karanjoshidev4357@gmail.com**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+🌱 I’m currently learning MERN STACK<br><br>👨‍💻 All of my projects are available at **[My Portfolio](https://karanjoshi-portfolio.netlify.app/)**<br><br>💬 Ask me about REACT,DSA<br><br>📫 How to reach me **karanjoshidev4357@gmail.com**<br><br>⚡ Fun fact Internet is soil & coding is plant for me
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
+
+
 
 [![](https://visitcount.itsvg.in/api?id=KaranJoshi4357&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
