@@ -9,6 +9,7 @@
 🌱 I’m currently learning MERN STACK<br><br>👨‍💻 All of my projects are available at **[My Portfolio](https://karanjoshi-portfolio.netlify.app/)**<br><br>💬 Ask me about REACT,DSA<br><br>📫 How to reach me **karanjoshidev4357@gmail.com**
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
 
+[![](https://visitcount.itsvg.in/api?id=KaranJoshi4357&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-joshi-341b57231) 
 
@@ -20,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJoshi4357&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KaranJoshi4357&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <h1></h1>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
@@ -31,3 +32,6 @@
  <br><br><br><br><br><br>
   <!--- <a align="right" href="https://github.com/Raj-Mandloii/Chat-App" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=Chat-App&theme=react&border_color=61dafb&border_radius=10"></a> -->
 </div>
+
+
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
