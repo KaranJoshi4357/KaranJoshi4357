@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan Joshi</h1>
 
 <h3 align="center">Full Stack Web Developer from India</h3>
-<p align="center">Collaborative, team player who can work with teams and be productive. Interested in obtaining a Software Developer position.Always like to learn new skills and technologies.</p>
+<h4 align="center">Collaborative, team player who can work with teams and be productive. Interested in obtaining a Software Developer position.Always like to learn new skills and technologies.</h4>
 
 
 # 💫 About Me:
