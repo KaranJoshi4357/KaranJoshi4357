@@ -14,7 +14,7 @@
 
 🌱 I’m currently learning MERN STACK<br><br>👨‍💻 All of my projects are available at **[My Portfolio](https://karanjoshi4357.github.io/)**<br><br>💬 Ask me about REACT,DSA<br><br>📫 How to reach me **karanjoshidev4357@gmail.com**<br><br>⚡ Fun fact Internet is soil & coding is plant for me
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> 
 
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" />
 
