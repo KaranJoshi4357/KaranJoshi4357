@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-🌱 I’m currently learning MERN STACK<br><br>👨‍💻 All of my projects are available at **[My Portfolio](https://karanjoshi4357.github.io/)**<br><br>💬 Ask me about REACT,DSA<br><br>📫 How to reach me **karanjoshidev4357@gmail.com**<br><br>⚡ Fun fact Internet is soil & coding is plant for me
+🌱 I’m currently learning MERN STACK<br><br>👨‍💻 All of my projects are available at **[My Portfolio](https://karanjoshi4357.github.io/)**<br><br>💬 Ask me about REACT,DSA<br><br>📫 How to reach me **karanjoshidev4357@gmail.com** <br><br> 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1ipTCVzBC3WnNaU2KCjHihNOm3LPFIvqa/view?usp=share_link)**<br><br>⚡ Fun fact Internet is soil & coding is plant for me
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> 
 
