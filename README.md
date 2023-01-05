@@ -42,12 +42,12 @@
 
 <br/>
 
-<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/KaranJoshi4357/gold-tub-6222" title="Hub Spot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranJoshi4357&repo=gold-tub-6222&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="left" href="https://github.com/KaranJoshi4357/SSENSE-Clone" title="SSENSE Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranJoshi4357&repo=SSENSE-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
- <br><br><br><br><br><br></div> -->
+ <br><br><br><br><br><br></div>
 
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
